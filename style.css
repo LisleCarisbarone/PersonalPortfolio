@@ -3,18 +3,21 @@ img {
   height: 25%;
 }
 
+/*header Section */
 header {
   background-color:#240046;
   text-align: center;
   color: white; 
 }
 
+/*footer Section */
  footer {
    background-color:black ;
   text-align: center;
   color: white; 
  }
 
+/*main contenct excluding Header & Footer sections */
 body {
   background-color: #10002b;
   color: white;
@@ -22,7 +25,7 @@ body {
   font-family: cursive;
   font-size:20px;  
 }
-
+/* all headings on page */
 h1, h2, h3 {
   text-align: center;
   text-decoration: underline;
@@ -53,7 +56,7 @@ hr {
 ol, ul {
   text-align: left;
 }
-
+/* content boxes */
 div {
   padding: 50px;
   text-align: left;
