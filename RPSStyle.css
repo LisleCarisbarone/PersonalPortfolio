@@ -31,6 +31,6 @@ input[type=button], input[type=reset]{
 div {
   padding: 50px;
   text-align: left;
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
