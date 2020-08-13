@@ -27,6 +27,28 @@ input[type=button], input[type=reset]{
   border:3px solid;
   border-color: black;
 }
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: indigo;
+}
+
+a:hover {
+  color: rebeccapurple;
+}
+
+a:active {
+  color:black;
+}
+
+hr {
+  border: 2px solid indigo;
+  border-radius: 3px; 
+  width: 75%;
+}
 	
 div {
   padding: 50px;
